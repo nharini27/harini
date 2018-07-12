@@ -1,4 +1,4 @@
-N=input()
+N=int(input())
 if(N>0):
 	print("Positive")
 elif(N==0):
